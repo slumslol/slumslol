@@ -2,7 +2,7 @@
 > fatality
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/notelox/notelox/main/PngItem_2848994.png" alt="logo.png" width="200" /> 
+<img align="left" src="https://raw.githubusercontent.com/slumslol/slumslol/main/Readme.png.png" alt="logo.png" width="200" /> 
 
 ```csharp
 slumsloll@github
