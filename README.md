@@ -9,9 +9,9 @@ slumsloll@github
 ----------------
 
    Windows :  11
-       WM  :  yabai
+       WM  :  yubo
     Shell  :  zsh 5.8
- Terminal  :  iTerm2
+ Terminal  :  CMD
       CPU  :  Nvidia 2080
     Alias  :  slums
 Languages  :  Lua, Python, Javascript
