@@ -1,5 +1,5 @@
 ```zsh
-> fatality
+> ruthless
 ```
 
 <img align="left" src="https://raw.githubusercontent.com/slumslol/slumslol/main/Readme.png.png" alt="logo.png" width="200" /> 
@@ -14,7 +14,7 @@ slumsloll@github
  Terminal  :  CMD
       CPU  :  Nvidia 2080
     Alias  :  slums
-Languages  :  Lua, Python, Javascript
+Languages  :  Lua, Html, Javascript
   Discord  :  slums#1651
 ```
 
